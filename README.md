@@ -97,7 +97,7 @@ The following information must be recorded for each product:
 - Product life cycle
 - Current phase in the product life cycle
 
-_Products_ are independent influencing factors in the system model. To ensure that a product is feasible, its relationship to the critical success factors must be closely examined. Together with the resource requirements for development and operation, the priority/value of the product can be derived.
+Products are independent influencing factors in the system model. To ensure that a product is feasible, its relationship to the critical success factors must be closely examined. Together with the resource requirements for development and operation, the priority/value of the product can be derived.
 
 _Core processes_ are the chains of activities related to a product or service that must be performed from the formulation of a customer order to the completion of the order.
 The following information must be tracked for all core processes:
