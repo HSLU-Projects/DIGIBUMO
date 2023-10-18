@@ -20,8 +20,87 @@ The following topics will be covered in every section:
 
 ## Business Strategy
 
-#### Lessions Learned
-#### Reflection
+#### Summary
+Develop a business strategy that includes the following aspects:
+
+- Management
+- Processes
+- Information flow
+- Resources and use of technology
+
+To achieve this, the following steps must be taken:
+
+_1. Clarify the initial situation_.  
+
+Check the preconditions for a smooth transformation process:
+
+- Is the company stable or in transition?
+    - Stable: Previous business model taken into account
+    - In transition: previous business model is less taken into account
+- Is management willing to make organisational changes to improve the information process?
+- Which managers and experts should be selected to support the business strategy development process?
+
+_2. Business vision and mission_  
+
+Clarifying the vision of the organisation's function within its environment. To achieve this, the following aspects need to be analysed:
+
+- Industry knowledge, political environment
+- Strengths and weaknesses of the organisation
+- Uncovering critical success factors
+- Stakeholders, their views, expectations and needs.    
+    Categorise the relevance, potential and urgency for each stakeholder
+
+Develop an appropriate vision that meets the following criteria:
+- Name unique selling propositions (USPs) for the company.
+- The mission must be achievable within several years
+- The vision is customer-oriented
+- Stakeholders are taken into account
+
+_3. Business logic_  
+
+Review the corporate vision and identify critical success factors. Evaluate the indicators to measure the company's performance.
+
+To achieve these goals, it is best to model the flow of information with system dynamics:
+
+- Start with the previously identified stakeholders and their goals.
+- Find positive and negative influencing factors for achieving the goals.
+    Evaluate the following points for each influencing factor:
+    - Influenceability - how can it be influenced?
+    - Measurability - how can it be measured?
+    - Interdependence - how does it influence other factors?
+    - Optional: Importance - add weighting
+
+Repeat this process until the following criteria are met:
+- All stakeholder perspectives are considered.
+- Identify the central loop: it consists of positive influencing factors that capture the basic functioning of the company.
+- Identify the stabilising factors: loops consisting only of positive influencing factors or only of negative influencing factors must be stabilised by factors with the opposite sign.
+
+The following aspects can be derived from this diagram:
+- Critical success factors: positive factors of the central loop or have a positive effect on many other influencing factors.
+- Key Performance Indicators (KPIs): These measure the critical success factors.
+- Risks: critical success factors that cannot be sufficiently influenced.
+- Necessary tools: to address and manage the identified risks.
+
+Set realistic targets for all KPIs and implement the identified tools in the system model.  
+The final result forms the basis for developing appropriate corporate governance: Products and core processes, staff roles, core competencies and promotion, and the process structure.
+
+_4. Products and core processes_  
+
+Products are derived directly from customer needs and technical possibilities. It must always be checked whether there is a sufficient standardised solution on the market that meets the problems or whether it is necessary to produce it oneself.
+The following information must be recorded for each product:
+
+- Product name
+- Customer needs covered
+- Required technology
+- Related core process
+- Use of information (coordination or operation)
+- Product life cycle
+- Current phase in the product life cycle
+
+#### Case Study Solution
+
+todo
+
 #### Used Material
 
 ## Organizational Model
