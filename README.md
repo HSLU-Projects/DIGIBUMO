@@ -86,7 +86,7 @@ The final result forms the basis for developing appropriate corporate governance
 
 _4. Products and core processes_  
 
-Products are derived directly from customer needs and technical possibilities. It must always be checked whether there is a sufficient standardised solution on the market that meets the problems or whether it is necessary to produce it oneself.
+_Products_ are derived directly from customer needs and technical possibilities. It must always be checked whether there is a sufficient standardised solution on the market that meets the problems or whether it is necessary to produce it oneself.
 The following information must be recorded for each product:
 
 - Product name
@@ -96,6 +96,22 @@ The following information must be recorded for each product:
 - Use of information (coordination or operation)
 - Product life cycle
 - Current phase in the product life cycle
+
+Products are independent influencing factors in the system model. To ensure that a product is feasible, its relationship to the critical success factors must be closely examined. Together with the resource requirements for development and operation, the priority/value of the product can be derived.
+
+_Core processes_ are the chains of activities related to a product or service that must be performed from the formulation of a customer order to the completion of the order.
+The following information must be tracked for all core processes:
+
+- Process name
+- Necessary activities
+- Core competences for the execution
+
+_5. Define roles and competences_
+A list of necessary competences can be derived from the products and core processes. These competences can be collected and grouped into roles in a meaningful way.  Attributes should be recorded for each role:
+
+- Name of the role
+- Core competencies
+- Development opportunities
 
 #### Case Study Solution
 
