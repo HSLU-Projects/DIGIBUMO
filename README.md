@@ -30,7 +30,7 @@ Develop a business strategy that includes the following aspects:
 
 To achieve this, the following steps must be taken:
 
-_1. Clarify the initial situation_.  
+__1. Analyse the initial situation__  
 
 Check the preconditions for a smooth transformation process:
 
@@ -40,7 +40,7 @@ Check the preconditions for a smooth transformation process:
 - Is management willing to make organisational changes to improve the information process?
 - Which managers and experts should be selected to support the business strategy development process?
 
-_2. Business vision and mission_  
+__2. Elaborate the business vision and mission__  
 
 Clarifying the vision of the organisation's function within its environment. To achieve this, the following aspects need to be analysed:
 
@@ -56,7 +56,7 @@ Develop an appropriate vision that meets the following criteria:
 - The vision is customer-oriented
 - Stakeholders are taken into account
 
-_3. Business logic_  
+__3. Model the business logic__  
 
 Review the corporate vision and identify critical success factors. Evaluate the indicators to measure the company's performance.
 
@@ -84,7 +84,7 @@ The following aspects can be derived from this diagram:
 Set realistic targets for all KPIs and implement the identified tools in the system model.  
 The final result forms the basis for developing appropriate corporate governance: Products and core processes, staff roles, core competencies and promotion, and the process structure.
 
-_4. Products and core processes_  
+__4. Describe products and core processes__  
 
 _Products_ are derived directly from customer needs and technical possibilities. It must always be checked whether there is a sufficient standardised solution on the market that meets the problems or whether it is necessary to produce it oneself.
 The following information must be recorded for each product:
@@ -97,7 +97,7 @@ The following information must be recorded for each product:
 - Product life cycle
 - Current phase in the product life cycle
 
-Products are independent influencing factors in the system model. To ensure that a product is feasible, its relationship to the critical success factors must be closely examined. Together with the resource requirements for development and operation, the priority/value of the product can be derived.
+_Products_ are independent influencing factors in the system model. To ensure that a product is feasible, its relationship to the critical success factors must be closely examined. Together with the resource requirements for development and operation, the priority/value of the product can be derived.
 
 _Core processes_ are the chains of activities related to a product or service that must be performed from the formulation of a customer order to the completion of the order.
 The following information must be tracked for all core processes:
@@ -106,7 +106,7 @@ The following information must be tracked for all core processes:
 - Necessary activities
 - Core competences for the execution
 
-_5. Define roles and competences_
+__5. Define necessary roles and competences__
 A list of necessary competences can be derived from the products and core processes. These competences can be collected and grouped into roles in a meaningful way.  Attributes should be recorded for each role:
 
 - Name of the role
