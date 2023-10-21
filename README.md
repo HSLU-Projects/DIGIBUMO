@@ -114,8 +114,27 @@ A list of necessary competences can be derived from the products and core proces
 - Development opportunities
 
 #### Case Study Solution
+Stakeholders in the project CDNet:
 
-todo
+| **Stakeholder** 	                | **Objectives** 	             | **Influencing factors** 	    | 
+|-----------------	                |----------------	             |-------------------------	    |
+| _Music Producers_                 | High volume at low price       | Efficient settlement process |
+| _Music Publishers & Distributors_	| Offering low prices            | Technical improvements      	|
+|                               	|                                | Building a plattform      	|
+| Dealers        	                | Know the customers             |                          	|
+| _Customers_      	                | Good experience at low price   |                          	|
+
+From the stakeholders the business logic can be derived.
+
+![CDNet](./resources/CDNET.drawio.png)
+
+The role and potential of digitisation is enormous. The goal of CDNet should be to build a streaming platform that meets the following needs:
+
+- Music producers could record their music with little effort and in high volumes and upload it to the platform
+- Music could be sold directly to the customer (B2C) instead of using retailers as middlemen
+- Data from customers could be collected to make direct sales suggestions to customers. In addition, the data could be analysed as a whole and sold to music producers.
+
+The disadvantage would be the big competition (Apple Music and Spotify). Therefore, the selection of a suitable business model and appropriate marketing is crucial.
 
 #### Used Material
 
