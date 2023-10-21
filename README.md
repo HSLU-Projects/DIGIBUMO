@@ -141,9 +141,11 @@ The disadvantage would be the big competition (Apple Music and Spotify). Therefo
 - Case Study CDNET
 
 ## Organizational Model
+
+#### Summary
 he operational structure has to be aligned with the business logic but in a process perspective. The organizational model is derived from the core processes, the core competences and the staff roles.
 
-__1. Define process-structures__
+__1. Define process-structures__  
 A process definition includes:
 
 - Designation of the product/service to be delivered
@@ -155,7 +157,7 @@ Process flows change with the product life cycle and experience gained and there
 At the beginning: A low level of firmly defined activities and dependencies is typical.  
 At the end of the life cycle: High quantities must be handled as cost-effectively and quickly as possible. Efficient organisational forms therefore become a critical success factor that requires a high degree of structuring.
 
-__2. Define organisational structure__
+__2. Define organisational structure__  
 Based on the developed business logic, the most appropriate organisational structure must be found. Responsibilities, management structure and information flows need to be defined.
 
 Flat hierarchies have a higher need for information distribution, while in hierarchical structures the flow of information is easier to define. Normally, specific knowledge is built up in the organisational units, while management information flows along the relationships between superiors and subordinates within the organisation.
@@ -169,7 +171,7 @@ There is a variety of organisational superstructures to chose from:
 
 Working groups are temporary associations of experts to deal with specific, infrequent problems. The efficient formation of working groups is very important for the success of a company and should be taken into account when planning the organisational structure. In addition, the prevailing corporate culture should not be changed too abruptly.
 
-__3. Define the spatial organisation__
+__3. Define the spatial organisation__  
 The spatial organisation ensures communication flows and estimates its importance and frequency between organisational units and stakeholders.  
 
 Communication flows can be modeled and weighted:
@@ -178,7 +180,6 @@ Communication flows can be modeled and weighted:
 
 Based on this diagram, communication can be coordinated and facilities can be created to meet the respective needs.
 
-#### Summary
 #### Case Study
 #### Used Material
 - CUBORO - Organizational Model
