@@ -195,7 +195,7 @@ Since each restaurant of Peclard provides the same core service, it would make s
 
 ![Peclard communication](./resources/Peclard_Comm.png)
 
-Geographic parameters define the frequency of information exchange. Exchanges within the restaurant happens more frequently than between the management.
+Geographical parameters determine the frequency of information exchange. Exchanges within the restaurant are more frequent than between management, although the importance is not necessarily higher.
 
 Digitalisation could help the restaurant in various ways. On one hand smart systems could track order and therefore optimize purchases. On the other hand, communication between restaurant managers could be facilitated and schedules could be shared to find potential temporary staff.
 
