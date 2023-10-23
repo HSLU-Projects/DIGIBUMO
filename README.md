@@ -143,7 +143,7 @@ The disadvantage would be the big competition (Apple Music and Spotify). Therefo
 ## Organizational Model
 
 #### Summary
-he operational structure has to be aligned with the business logic but in a process perspective. The organizational model is derived from the core processes, the core competences and the staff roles.
+The operational structure has to be aligned with the business logic but in a process perspective. The organizational model is derived from the core processes, the core competences and the staff roles.
 
 __1. Define process-structures__  
 A process definition includes:
@@ -181,6 +181,24 @@ Communication flows can be modeled and weighted:
 Based on this diagram, communication can be coordinated and facilities can be created to meet the respective needs.
 
 #### Case Study
+
+Core process of Peclard:  
+![Peclard core process](./resources/Peclard_Process.png)
+
+__Delivered Service:__ a dinner at one of Peclards' restaurants  
+__Used Technology:__ a tablet to take the order and a screen to see the pending orders in the kitchen  
+__Initiator:__ the customer enters the restaurant  
+__Controlling:__ waiter:ess  
+__All involved staff roles:__ waiter:ess, chef
+
+Since each restaurant of Peclard provides the same core service, it would make sense to have a similar hierarchical, product line-based structure in each restaurant. Staff are trained according to the restaurant's speciality, i.e. courses and upscale service. Nevertheless, staff could be exchanged within reasonable limits.
+
+![Peclard communication](./resources/Peclard_Comm.png)
+
+Geographic parameters define the frequency of information exchange. Exchanges within the restaurant happens more frequently than between the management.
+
+Digitalisation could help the restaurant in various ways. On one hand smart systems could track order and therefore optimize purchases. On the other hand, communication between restaurant managers could be facilitated and schedules could be shared to find potential temporary staff.
+
 #### Used Material
 - CUBORO - Organizational Model
 - Case Study Peclard
