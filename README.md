@@ -99,7 +99,7 @@ The following information must be tracked for all core processes:
 - Necessary activities
 - Core competences for the execution
 
-__5. Define necessary roles and competences__
+__5. Define necessary roles and competences__  
 A list of necessary competences can be derived from the products and core processes. These competences can be collected and grouped into roles in a meaningful way.  Attributes should be recorded for each role:
 
 - Name of the role
@@ -122,7 +122,7 @@ Process flows change with the product life cycle and experience gained and there
 At the beginning: A low level of firmly defined activities and dependencies is typical.  
 At the end of the life cycle: High quantities must be handled as cost-effectively and quickly as possible. Efficient organisational forms therefore become a critical success factor that requires a high degree of structuring.
 
-__2. Define organisational structure__  
+__2. Define organisational structure__   
 Based on the developed business logic, the most appropriate organisational structure must be found. Responsibilities, management structure and information flows need to be defined.
 
 Flat hierarchies have a higher need for information distribution, while in hierarchical structures the flow of information is easier to define. Normally, specific knowledge is built up in the organisational units, while management information flows along the relationships between superiors and subordinates within the organisation.
@@ -137,7 +137,7 @@ There is a variety of organisational superstructures to chose from:
 
 Working groups are temporary associations of experts to deal with specific, infrequent problems. The efficient formation of working groups is very important for the success of a company and should be taken into account when planning the organisational structure. In addition, the prevailing corporate culture should not be changed too abruptly.
 
-__3. Define the spatial organisation__  
+__3. Define the spatial organisation__   
 The spatial organisation ensures communication flows and estimates its importance and frequency between organisational units and stakeholders.  
 
 Communication flows can be modeled and weighted:
@@ -148,6 +148,108 @@ Communication flows can be modeled and weighted:
 Based on this diagram, communication can be coordinated and facilities can be created to meet the respective needs.
 
 ## Content Strategy
+
+Information can be used to create value outside the organisation and reduce costs within the organisation through communication, coordination and simulation. Value can be created through the creation of new opportunities, better utilisation of resources and better assessment of risks. The leverage effect of information can also be utilised by storing the information as knowledge within the company if the same data can be used multiple times.  
+Information is also needed to recognise changes in the environment and to make appropriate adjustments within the company. Adjustments can be made by selecting alternative needs, processes, technologies, personnel, management, use of resources, and so on. Information can therefore increase the flexibility of the organisation.
+
+In order to organise a company accordingly, the vision and business logic must be examined from an information perspective with regard to the influence of the following factors:
+
+- Management information
+- Operational information
+- Project information
+- Innovation
+
+Information must be collected through a well thought-out process. Value is created through the utilisation of this information.
+
+### Positioning of information, organisation and IT
+
+Assess the type of information exchanged, its relevance, its potential and its urgency for each stakeholder.
+Based on this assessment, the current situation in terms of organisation, information and IT can be clarified. Further assess the current competence in the respective area and its future relevance. The future steps for achieving the necessary competences can be derived from these findings.
+
+### Information objectives
+
+The aim is to define objectives for each stakeholder group with regard to the information required and the utilisation of IT.
+
+Based on the previous analysis, the user groups must be defined and it must be determined whether they have an appropriate level of support in order to optimally utilise their information and information systems. In conjunction with the willingness to use systems, a prioritisation list can be drawn up. 
+A high priority can be achieved by a combination of a high need for support, a lack of support in place and a high willingness to co-operate.
+
+### Activity in data markets
+
+Reasons for buying data:
+
+- No core expertise can be lost
+- The required data is not automatically generated as part of normal business activities
+- The data can be procured more cheaply on the data markets than internally (cost of aquiring, storage and maintenance)
+
+Reasons to sell data:
+
+- There is an attractive market for the data
+- Selling data plays a role as a strategic business area 
+- The data can be procured internally at very low cost
+- The sale does not jeopardise the company's competitive advantage
+
+### Information needs
+
+In this step information importance and the respective needs of the company must be clarified.
+
+<img src="./resources/Information_needs.png" alt="Information needs" width="250px"/>
+
+In practice the requested, needed and offered information is never completly overlapping.
+Possible causes of deviations between information requirements and data supply:
+
+- Process errors and process gaps (i.e. incorrect process structures or lack of communication)
+- Data gaps leads to misinterpretations and higher risk for wrong decisions
+- Flood of data due to an unsuitable pre-selection
+
+To avoid these gaps, the information requirements must be defined. To achieve this, the following questions must be applied to the business strategy and the organisational model:
+
+- For what purposes is the information needed?
+- What information is needed to fulfil the business case?
+- How and where can the information be used to create value?
+- What information is associated with a direct competitive advantage?
+- Is the value created greater than the cost of acquiring the information?
+- How long will the information be relevant?
+- What risks need to be considered?
+
+<img src="./resources/CS_BS_Elements.png" alt="Business strategy information elements" width="500px"/>
+
+<img src="./resources/CS_OM_Elements.png" alt="Organisational model information elements" width="500px"/>
+
+Communication and information related and needed to adjust the business strategy and the organisational model is focused on effectiveness.  
+The following types of informations are relevant:
+
+- __Strategy information__: Concepts, business status and business development, trend analyses, market research results, competitor information, industry comparisons, projects, investments, unused financing potential, investment priorities, residential construction, effectiveness of intermediaries, political influences, general economic situation
+- __Project information__: Project planning & status, use of resources, participants, responsibilities, absences, pending issues, project experience, project news, competitive information, project objectives, customer requirements, competitive information relating to the project
+- __Daily business information__: Utilisation and deployment of resources, responsibilities, employee expertise, areas of interest, absences, pending issues, news/updates and management information, problem information, billing information and other relevant domain specific information
+- __Employee information__: Participation in projects, responsibilities, absences, pending issues, core competences, qualifications, additional training, salaries
+- __Relationship information__: Contacts, addresses, needs, services used, attractiveness, core competences, duration of relationship, intensity, responsible account manager
+- __Offer information__: Products and service portfolio, prices, contracts, schedules, contacts
+- __Customer information__: distributed via strategy information, offer information and relationship information
+
+### Validation
+To validate all previously take steps, undertake an in-depth profitability test of the business model. 
+
+Furthermore answer the following questions:
+
+- Is the business model easy to understand and does it address the company's core issues?
+- Is a clear position defined in relation to the business, technology and data markets?
+- Are the business mechanism and management of the business defined
+- Is appropriate innovation ensured?
+- Are product life cycle considerations in place? 
+- Is there an overall product lifecycle balance across the product strategy? 
+- Does information increase the value of products and services?
+- Are the concepts of business, organisation and information aligned? 
+- Is the coordination between business management and core processes ensured? 
+- Is clear direction, focus and importance in relation to the various elements of the business model are defined?
+- Is the exchange of information promoted by a conscious room design, room allocation and office organisation?
+- Are information objectives and information need clearly defined?
+- Are all perspectives (management, processes, information, resources, use of technology and specific perspectives in relation to the business) present and considered?
+- Is the planned change process realistic, i.e. is the new strategy compatible with the existing corporate culture or is the necessary cultural change realistic? 
+- Are the necessary core competences available or can the core competences be built up in good time? 
+- Are the minimum necessary resources available?
+- Has the difference between organisation, information and technology always been made clear when developing the business model?
+- Can a qualified manager be designated as responsible for the implementation? 
+- Does he or she have the support of the entire management team? 
 
 ## Information Management
 
