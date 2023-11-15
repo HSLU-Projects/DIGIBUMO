@@ -46,7 +46,7 @@ Digitalisation could help the restaurant in various ways. On one hand smart syst
 
 Switzerland Tourism (ST) is an information company whose main objective is to offer high-quality marketing programmes and stimulate demand for offers in Switzerland and abroad. Therefore they require an well thought-out information management.
 
-__Stakeholdergroups__:
+### Stakeholdergroups
 
 - The government: Principal, wants to stimulate tourism demand in order to generate tax revenue
 - Private customers: Need information about travel and holiday offers
@@ -57,16 +57,16 @@ __Stakeholdergroups__:
 - ST market research: Determine the tastes of the most important customer groups. Keeping knowledge up to date
 - ST IT: Provide a stable and robust information platform
 
+### Support needs
+
 ![Support needs](./resources/Information_support.png)
 
-The current supply of support and the future need for support are in a linear relationship with each other - which suggests that ST is working well. The government has the lowest demand and supply, as it only needs to keep an eye on its investments. The greatest emphasis is placed on private customers. Cooperate customers and market research user groups could be further strengthened, while the role of tourist information centres will diminish as digitalisation progresses.
+The current supply of support and the future need for support are in a linear relationship with each other - which suggests that ST is working well. The government has the lowest demand and supply, as it only needs to keep an eye on its investments. The greatest emphasis is placed on private customers. Cooperate customers could be further strengthened, while the role of tourist information centres will diminish as digitalisation progresses.
 
-__Information needs__:
+### Information needs
 
-c) Show how you derive the need for information. Make assumptions.
+The information requirements are different for each stakeholder. Customers want to know the portfolio on offer. Providers want to be associated with discerning customers. The state wants to be promoted to tourists and companies. Management wants the necessary marketing information to gain insights into customer tastes and thus promote Switzerland attractively. 
 
-Information requirements:
-	- For what purposes is information needed?
-	- What's the value of information to fulfill the business case?
-Which information is associated with a directcompetitive advantage
+The most important information for assessing the success of ST is financial information such as bookings, ticket sales as well as operating, maintenance and development costs of the platform. With that information it can be assesed wheter ST managed to boost tourism in Switzerland.
 
+Information that leads to a competitive advantage (compared to other countries) is marketing information. This information allows ST to apply a sophisticated marketing strategy that leads to an increased appreciation of Switzerland.
