@@ -252,6 +252,149 @@ Furthermore answer the following questions:
 - Does he or she have the support of the entire management team? 
 
 ## Information Management
+This step focuses on anchoring an information management process in the company. The image below visualizes the process.
+
+<img src="./resources/IM_Process.png" alt="Information Management Process" width="250px"/>
+
+### Information culture and policy
+__Information culture__: behaviour of each individual in dealing with information  
+__Information policy__: determines the information behaviour
+
+Characteristics:
+- __Open information culture__: promoting and rewarding the exchange of information
+- __Closed information culture__: Only explicitly declared information may be passed on 
+- __Internal information focus__: relatively closed information process
+- __External information focus__: information goes beyond the boundaries of the organisation
+- __Emphasis on facts__: Decisions must be consistent with acquired information, e.g. market prices
+- __Emphasis on intuition__: decisions can be made based on the intuitions of experts
+
+An open information culture is a prerequisite for a learning organisation and a knowledge management concept, but also harbours security risks.
+
+The following organisational structures can implement such a culture:
+
+__Information monarchy__: the monarch determines the entire information process, which leads to standardisation and efficiency. The process is suitable for small companies with one business unit. It harbours the risk of suppressing creativity and innovation.
+
+__Information feudalism__: Managers control the information environments and processes of their departments. This structure is suitable for different products and customers. The construct offers a high degree of flexibility, but can also lead to difficulties in cross-divisional information management processes and cross-selling. This approach is the most common and often causes difficulties in IT development as each business unit has different requirements.
+
+__Information federalism__: based on weakly centralised and strongly decentralised autonomy. Information federalism determines which information must be exchanged and standardises and regulates the corresponding processes, the rest is decentralised. Information federalism supports an organisation that is geared towards constantly balancing the interests of those involved.
+It enables innovation and adaptation, but also harbours risks due to increased coordination effort and competence regulations.
+
+__Information market__: based on demand and not on regulation. Important and heavily used data is still managed. This approach is highly efficient as it has a low overhead, but harbours the risk that important data will not be offered or requested and will therefore be lost.
+
+In large companies, it is not easy to distinguish between centralised and decentralised competences and responsibilities. Instead, information management often has to be coordinated across several levels. The approaches of information federalism and the information market are suitable solutions for such a situation.
+
+The means of information policy also include the role of the information broker, the selective dissemination of information and targeted information leaks. The task of the information broker is to promote the exchange of information where political or other negative conditions prevent direct exchange.
+
+Difficulties in information behaviour:
+
+__Information Sharing or hoarding__: Information needs to be categorised and shared horizontally or vertically, depending on the type of information.
+
+__Information overload__: With digitalisation, the amount of data is growing, while the means for processing and interpreting the data are not growing to the same extent. When information is passed on, the format in which the recipient can use it must be taken into account. Data may only be passed on if the recipient does not yet have and know the data. This is referred to as deliberate data behaviour.
+
+__Ambiguity of terms and content__:In day-to-day business, the meaning of a term can change within a business unit due to different knowledge assignments to that term. An organisation must strike a balance between the interchangeability of information and its specific applicability in a given situation to ensure that the relevant data is interpreted in the same way.
+
+__Formulation of information needs__: Identify the relevant questions to formulate information needs.
+
+In order to change the information culture, opinion leaders and affected functionaries must be persuaded to adopt compliant information behaviour. Discussing information systems can only promote information awareness.
+
+Basic approaches to influence information behaviour are the appointment of a group to promote information exchange, job rotation, frequent meetings across organisational units. When applying the information market model, the costs of internal communication can be taken into account. However, this must be done at the level of the employees and be perceptible to them. In return, the valuable transfer of knowledge must be rewarded.
+
+### Information rules
+Define a framework to fulfil the information policy in relation to the following factors:
+
+- __Information orientation__: Optimising the value of information at the lowest possible cost to the management process
+- __Information management approach__: Handling of formal and informal information
+- __Data ownership__: Define responsibility for data maintenance and distribution
+- __Security principles__: Select security principles for the openness or closedness of information types
+- __Privacy and data protection__: Governs usage and measurements to ensure compliance with privacy standards
+- __Information sharing__: Determines the information to be provided and requested
+- __Retention principles__: Life cycle of information - determines short and long-term importance
+
+Example of information rules:
+
+<img src="./resources/IM_rules.png" alt="Information Rules" width="600px"/>
+
+### Information processes
+Information processes can be derived from the information requirements of the business strategy. As a basis, consider which information is generated by core, management or innovation processes and which additional processes are required. Determine which data is collected and how information is processed. Furthermore, the stakeholder groups, employee roles and particularly the business logic should be analysed.  
+The analysis can be done using the following diagrams:
+
+Information derivation diagram of a booking form:
+
+<img src="./resources/IM_derivation.png" alt="Information Derivation Diagram" width="450px"/>
+
+Impact diagramm on guest age:
+
+<img src="./resources/IM_impact.png" alt="Information Impact Diagram" width="350px"/>
+
+Information processes should be integrated into management processes to ensure the cycle of analysis, planning, implementation and control.
+
+The following aspects should be taken into account for the technology used:
+
+- Degree of structuring of the process and the data involved
+- Responsibility and interests for the generation, collection, delivery, ownership and use of data
+- Organisational and geographical origin
+- Time factor for the value of the data, especially for the competition
+- Time factor for information management: generation, updating and processing frequency and required duration
+
+To ensure the utilisation of information, the following points should be taken into account:
+
+- Linking the data with meaning and context in the desired form
+- Prioritise in terms of time:
+	1. business information
+	2. management information
+    3. innovation information
+
+Information managment aspects for arbitrage transactions:
+
+<img src="./resources/IM_aspects.png" alt="Information Management Aspects" width="600px"/>
+
+### Organisation of information management
+Organisational approaches to information management:
+
+- __Library__: Accessible, structured data storage
+- __Record keeping__: Scheme-specific storage of information, e.g. accounting
+- __Research__: variety of heterogeneous data sources
+- __TV programme__: customer-oriented, well-presented content
+	
+The latter two are active approaches that involve summarising, enriching and adding context to the information. Information workers translate general data into business-specific information. Institutionalisation approaches for the information management function include extension, addition, fusion, integration, and hybrid models.
+
+A key question is whether to acquire the necessary competences or to outsource them.  
+Categorisation of tasks for in- or outsourcing:
+
+<img src="./resources/IM_outsourcing.png" alt="Information Process in- or outsourcing" width="500px"/>
+
+
+| __Advantages__                                          | __Disadvantages__                                       |
+|---------------------------------------------------------|----------------------------------------------------------|
+| Cost benefits through economies of scale and standardisation | Risk of external sourcing of services (less influence, dependence on the supplier) |
+| Quality advantage with standard services                 | Responsibility for solving tasks cannot be transferred |
+| Less investment in areas that are not part of core competences | Increased planning and control effort                    |
+| Less vertical integration and therefore less complexity  | Restriction to standardised solutions                    |
+|                                                         | Loss of expertise due to migration of employees          |
+|                                                         | Loss of common goals can put a strain on the partnership |
+
+#### Monitoring information use and controlling information management
+Information, information management and the instruments used must be appropriate and well harmonised. Controlling is the basis for achieving the desired information behaviour. The key performance indicator system developed as part of the business logic also forms the basis for systematically evaluating the information management function. It is an iterative process of analysis, planning, implementation, measurement and control.
+
+__Effectiveness__: Are the tasks carried out with sufficient quality?  
+__Efficiency__: Are the tasks correct?
+
+For efficiency, the aspects of usefulness, usability and utilisation must be optimised
+
+<img src="./resources/IM_benefit.png" alt="Benefit assessment with the area of analysis" width="500px"/>
+
+Maturity level:
+- __Unknown__: Non-repeatable, unspecified processes
+- __Repeatable__: The process can be repeated by individual experienced employees, but is not specified or documented.
+- __Defined__: The process is defined and documented and can be carried out if no difficulties arise
+- __Managed__: Controlled/monitored &rarr; reactive. Problems can be recognised and rectified at an early stage
+- __Optimising__: Continuous improvement through feedback mechanisms
+
+### Validation
+
+The key responsible managers actively participate in the categorisation and definition of information. The information requirements are discussed by the responsible managers in plenary meetings. The information policy is openly discussed. Responsibilities for information are clarified and openly discussed. Those responsible are aware of the value of
+value of information. The skills and knowledge of employees are valued. The importance of the exchange of knowledge and information within the company is explicitly communicated. Information culture and corporate culture are harmonised. The company has clear rules for handling information. The necessary competences are recognised and
+promoted. The desired information behaviour is defined, documented and also taken into account in reorganisations. The company promotes information behaviour and takes it into account in performance appraisals. Information behaviour is continuously monitored, evaluated and improved. It is part of the corporate culture to pass on information in a targeted manner and enriched with additional data. A generic process model is used for the most important information processes, with which they can be systematically analysed and continuously improved.
 
 ## Information System Strategy
 
