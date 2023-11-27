@@ -376,8 +376,8 @@ Categorisation of tasks for in- or outsourcing:
 #### Monitoring information use and controlling information management
 Information, information management and the instruments used must be appropriate and well harmonised. Controlling is the basis for achieving the desired information behaviour. The key performance indicator system developed as part of the business logic also forms the basis for systematically evaluating the information management function. It is an iterative process of analysis, planning, implementation, measurement and control.
 
-__Effectiveness__: Are the tasks carried out with sufficient quality?  
-__Efficiency__: Are the tasks correct?
+__Effectiveness__ is the ability to produce a better result, one that delivers more value or achieves a better outcome.
+__Efficiency__ is the ability to produce an intended result in the way that results in the least waste of time, effort, and resources
 
 For efficiency, the aspects of usefulness, usability and utilisation must be optimised
 
