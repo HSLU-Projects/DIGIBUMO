@@ -70,3 +70,26 @@ The information requirements are different for each stakeholder. Customers want 
 The most important information for assessing the success of ST is financial information such as bookings, ticket sales as well as operating, maintenance and development costs of the platform. With that information it can be assesed wheter ST managed to boost tourism in Switzerland.
 
 Information that leads to a competitive advantage (compared to other countries) is marketing information. This information allows ST to apply a sophisticated marketing strategy that leads to an increased appreciation of Switzerland.
+
+## Case Study Information Management: Coop vs. Migros
+
+### Information Cultures
+Migros and Coop exhibit open information cultures that emphasize collaboration, transparency, and sustainability. They promote open communication, where Migros rotates executive staff between departments and in the case of Coop they released the 'myCoop' app for cross-departmental information access. Both companies maintain a balanced internal and external focus, optimizing supply chain and cost control internally, while externally focusing on market research and customer satisfaction. Both companies are predominantly fact-based, as they rely on operational efficiency and data analysis for inventory management and customer behavior understanding. On the other hand, they also recognize the importance of intuition in fostering innovation for their product lines and ensuring quick responses to emerging trends or customer shifts, which is crucial in the dynamic retail sector.
+
+### Information Principles
+Coop's Supercard and Migros' Cumulus, both credit cards and loyalty programs, share similar operating principles. They employ a combined information orientation, focusing on both the content and process of customer purchases, and utilize schematizing information management to create customer profiles. In terms of data ownership and security, they follow a combined strategy, sharing data within subsidiaries while excluding external access, and leaning towards the necessity principle in legal obligations. Both companies prioritize high standards in infor-mation privacy, with aligned practices such as retaining customer data for the maximum legal duration and emphasizing internal data exchange over external sharing.
+
+The role of customer data for Coop and Migros is central, shaping personalized promotions. It explores information principles, emphasizing that the acquired data is vital for business opera-tions and should not be outsourced. The goal is to enhance user profiles, and any potential data sale should be approached with caution, limited to isolated topics, and carefully considered for broader implications.
+
+### Insource or Outsource the procurement of Customer Data
+The procurement of data acquired through Cumulus and Supercard comes with almost no additional cost and constitutes the core of essential knowledge for the fundamental operations of the business and, under no circumstances, should it be out-sourced.
+The acquisition of data is meant to enhance user profiles, and any potential sale of data should be approached with utmost caution, limited to isolated topics and with careful con-sideration of its broader implications.
+
+### Derivation of Customer Segment Information
+
+Deriving customer segment information involves collecting, integrating, and analysing data to identify common characteristics and behaviours. Data is gathered from various sources like interactions, transactions, surveys, and social media, then cleaned and validated for accuracy. Segmentation criteria are defined, and analysis tools group customers based on patterns. Seg-ments are validated, and detailed profiles are created for customization. Migros uses its app to collect data from loyalty cards, online interactions, surveys, and external sources, employing segmentation, profiling, predictive modelling, and customer journey mapping for personalized marketing, product development, store optimization, and customer engagement, gaining a competitive retail advantage.
+
+![Information Derivation Diagramm](./resources/Migros_Coop_Information_Derivation_Diagramm.png)
+
+
+
