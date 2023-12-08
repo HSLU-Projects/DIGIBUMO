@@ -397,6 +397,122 @@ value of information. The skills and knowledge of employees are valued. The impo
 promoted. The desired information behaviour is defined, documented and also taken into account in reorganisations. The company promotes information behaviour and takes it into account in performance appraisals. Information behaviour is continuously monitored, evaluated and improved. It is part of the corporate culture to pass on information in a targeted manner and enriched with additional data. A generic process model is used for the most important information processes, with which they can be systematically analysed and continuously improved.
 
 ## Information System Strategy
+This phase diverges from the business model and information management phases, relying less on workshops and more on interviews, surveys, and detailed discussions with specialists. The objective is to seamlessly integrate the business strategy and information management into the existing IT infrastructure while concurrently addressing challenges such as closing data gaps, reducing data flood, and ensuring the interpretability of data within the system.
+
+### Data Overview, Process Overview, and Basics
+
+Basic knowledge for developing the information system strategy needs to be gathered. An inventory of the existing information system environment is created and combined with the requirements from the business model and information management phases. The inventory aids in recognizing and eliminating data duplications through detailed analysis. Pragmatically, the inventory includes devices, network installations, system programs, standard programs, purchased and internally developed applications, databases and documentations.
+
+<img src="./resources/ISS_linking.png" width="500px"/>
+
+Important parameters for information system strategy design:
+
+- __Quantity Structure__: Determined by business nature and product life cycle, guiding resource allocation.
+- __Security__: Defines protective measures for sensitive data areas based on principles from the information management phase.
+- __Autonomy__: Derived from information policy, enabling independent development of areas.
+- __Distribution__: Dependent on operations' spatial distribution and process flow structures, ensuring data availability where needed.
+- __Structuring and Flexibility__: Varied based on a product's life cycle status, impacting data and process structure standardization.
+- __Heterogeneity__: Acknowledges diverse structures resulting from different requirements and autonomously developed systems.
+
+#### Data Map
+
+__Data map__: Compiles and describes essential data sets for user accessibility. It serves as a standardized starting point for data searches, complementing the access structure.   
+__Information map__: Individualised view of the relevant data for a user/role.
+
+Basis for developing a data map:
+
+- __Clarify Use__: Define objectives and user groups before starting data map development.
+- __Define Entry Structures__: Align access structure with business questions, such as employee roles or process structure.
+- __Define Descriptive Attributes__: Describe data sets based on fixed attributes for clarity.
+- __Ensure Provision__: Determine tools, automation, and updating processes for data map development.
+- __Use a Data Map__: Develop and introduce data maps using evolutionary prototypes, refining based on usage.
+- __Monitor and Consider Utilization__: Track data utilization, update the map accordingly.
+
+#### Access Structures
+This step considers how data can be accessed and shared. The previously developed data map is incorporated into these considerations, emphasizing conceptual questions over technical implementation details.
+
+A flood of data occurs when too much data is made available (bring principle) or when there is insufficient guidance in searching for data (fetch principle). Access structures must support both bringing and fetching data.  
+Modern information utilization is characterized by flexibility, association, event-driven processes, overlapping views, and diverse structures. However, to ensure efficient system structures and consistent data storage, clear organization and redundancy avoidance are desirable. The challenge is to provide users with their desired view of information despite differing underlying data and system structures.
+
+<img src="./resources/ISS_transfer.png" width="500px"/>
+
+Synchronous communication allows precise coordination but may lead to a flood of media for the recipient. It should be used judiciously, considering coordination efforts.  While asynchronous communication poses coordination challenges, increasing the risk of data gaps or a flood of data.  
+The sender must decide on authorizations, addresses, and attributes when storing data. The recipient defines data of interest through queries, receiving an overview first and the actual content upon request.  
+This data transfer approach focuses on identical treatment of different communication media and standardized storage based on logical aspects. Success depends on appropriate addressing, queries, and questions. Conceptual considerations include determining collected data for company context, descriptive properties in the profile, addressing in the company, priorities, and authorization rules.
+
+Various systems support communication in practice, and comparing them with the reference model reveals functionality and limitations and provide a basis for informed judgments.
+
+### Development of the information system architecture
+In this step, the focus is on the usability of data in terms of systems and information technology. Key considerations involve choosing the appropriate information technology for the company, aligning it with organizational forms, and ensuring it meets requirements without unnecessary complexity. The decision-making process involves observing the information technology market, analyzing potential technologies, and prioritizing based on attractiveness, own capabilities, and potential benefits. The following image displays an example of used technologies along the information process.
+
+<img src="./resources/ISS_information_process.png" width="600px"/>
+
+#### Information Technology Portfolio
+
+The aims of the information technology portfolio is to determinine the suitable information technology to employ and establishing its priority. This includes the crucial task of aligning the chosen technology with the organizational requirements, steering clear of unnecessary complexities. Continuous observation of the information technology market is also imperative to stay abreast of developments.
+
+When Analyzing Technologies, a comprehensive assessment is conducted. The attractiveness of a technology is gauged based on factors such as applicability, cost, future prospects, and compatibility. Simultaneously, an evaluation of the organization's capabilities is undertaken, considering investment requirements and expertise. An in-depth analysis is performed to understand the potential benefits that the information technology could bring to the company. 
+
+<img src="./resources/ISS_types.png" width="600px"/>
+
+Prioritization plays a pivotal role, employing a portfolio technique to compare the attractiveness of different technologies alongside the organization's own skills. This method aids in prioritizing information technology based on both its attractiveness and the capabilities available in-house.
+
+The Information System Portfolio is shaped by addressing the information requirements defined in the business model. It involves structuring the overarching information system into simpler and more cost-effective subsystems, all while considering various perspectives, including organizational structure, process structure, product life cycle, spatial distribution, and communication requirements.
+
+In the process of Structuring Subsystems, the focus is on avoiding an overwhelming influx of systems while ensuring effective development and maintenance. The application of systems engineering methodology is essential, taking into account different perspectives and categorizing information system landscapes into types like centralised, distributed, federated, connected, and isolated systems.
+
+Linking Information Technology and Systems involves establishing clear relationships between the chosen information technology and the information systems. Matrices are employed to document the technology mix to the respective information systems and the usage of those systems by employee roles.
+
+Mapping between information technology and information systems and employee roles:
+
+<img src="./resources/ISS_IT_IS.png" width="400px"/>
+
+<img src="./resources/ISS_Group_IS.png" width="400px"/>
+
+Prioritization of Information Systems is facilitated through portfolio technology. This includes distinguishing between mandatory and optional systems, conducting a profitability analysis for mandatory systems, and a comprehensive cost/benefit analysis for optional systems.
+
+Key indicators for IT committee analysis:
+- Utilization Intensity
+- Support Requirements
+- Maintenance Requirements
+- Financial, time, and personnel expenditure
+- Risks
+
+Another factor to consider is the attractiveness of information systems based on user group priority, system importance, and critical success factors. The evaluation of these criteria determines the position and size of circles in the portfolio, influenced by economic efficiency considerations
+
+<img src="./resources/ISS_attractivity.png" width="400px"/>
+
+The Decision-Making process becomes pivotal, requiring a choice between in-house production and external procurement of information systems. Factors such as strategic importance, company specificity, and the necessary skills for system provision are taken into consideration.
+
+<img src="./resources/ISS_specifity_importance.png" width="400px"/>
+
+In summary, the conceptual considerations encompass the structural organization of information systems, the strategic use of information technology, reference to user groups, prioritization based on attractiveness and in-house capabilities, an assessment of economic efficiency, and the pivotal decision on whether to opt for in-house or external procurement of information systems.
+- Determining which information technology to use and with what priority.
+- Adapting technology to organizational requirements and avoiding unnecessary complexity.
+- Continuous observation of the information technology market.
+
+#### Implementation strategy by means of a project portfolio
+
+Deviations between the target and actual states in the information concept are clarified and rectified through workshops and subsequent bundling into projects.
+
+Projects, defined as time-limited development endeavors to solve specific problems, are crucial for achieving objectives. Guidelines for project definition include user involvement, clear client and management, well-defined objectives, homogeneous requirements, limiting dependencies, limited duration, and a strategic project team. After defining projects, their realization sequence and resource allocation are determined based on priority and dependencies, analyzed using the network planning technique.
+
+Prioritization relies on an opportunity/risk portfolio, giving precedence to projects offering significant opportunities with low realization risk. This involves considering business priorities, critical success factors, information systems affected, and risks, including technology use, user acceptance, inter-project dependencies, and staff availability.
+
+<img src="./resources/ISS_Risks_Opportunities.png" width="400px"/>
+
+The implementation strategy encompasses project realization sequence, priorities, and resource allocation in line with the developed concept.
+
+#### Validation
+
+The information system strategy and its outcomes are validated by aligning them with the following criteria:
+
+- The organization employs suitable information technology, ensuring systematic clarification of information and functionality requirements before IT system investments.
+- The entire organization is interconnected, facilitating seamless communication.
+- Responsible management thoroughly analyzes and considers the impact of information technology on the business model.
+- Diverse forms of information (textual, graphical, multimedia, etc.) are accommodated in data processing.
+- All employees enjoy straightforward and understandable access to a variety of internal and external data sources.
+- The company possesses a well-defined implementation strategy for projects, effectively coordinating, prioritizing, and allocating necessary resources.
 
 ## Used Material
 - The CUBRO Procedure Model in Detail
