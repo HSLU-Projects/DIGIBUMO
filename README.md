@@ -3,7 +3,8 @@ The aim of this journal is to account for the learning progress in the subject o
 
 ![Cover Image](./resources/Cover.png)
 
-The case studies can be found [here](./CASE_STUDIES.md)
+The case studies can be found [here](./CaseStudies.md).  
+The class review can be found [here](./ClassReview.md)
 
 ## Table of Contents  
 - [Business Strategy](#business-strategy)
