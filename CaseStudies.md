@@ -91,5 +91,6 @@ Deriving customer segment information involves collecting, integrating, and anal
 
 ![Information Derivation Diagramm](./resources/Migros_Coop_Information_Derivation_Diagramm.png)
 
+## Case Study Information System Strategy
 
 
