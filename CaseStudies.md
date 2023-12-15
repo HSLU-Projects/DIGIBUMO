@@ -93,4 +93,49 @@ Deriving customer segment information involves collecting, integrating, and anal
 
 ## Case Study Information System Strategy
 
+In this case study I analyzed the platform [jobs.ch](https://www.jobs.ch/en/).
+The main task of the platform is placement office. The main stakeholders are employees, recruiters and coorporates. An additional service is the comparison of salaries.
 
+### Overview
+__Quantity Structure__: The data as a placement centre is of more ephemeral interest. What is interesting are the patterns in the mass of data i.e, industry trends, market for specialized staff, salary insights, demographic and geographic patterns.  
+__Security__: CVs contain personal data and is confidential and must be protected.  
+__Autonomy__: Data can be handled autonomous as long as privacy is ensured.  
+__Distribution__: As the main product is a webapplication the data must be centrally stored.  
+__Flexibility__: The system must be designed with modern technology to guarantee the effectiveness and efficiency for the users.
+
+### Information System Architecture
+The following image shows the architecture of a recruitment system architecture:
+
+![Online Recruitment System Architecture](./resources/Online-recruitment-system-architectural-design.jpg)
+Source: https://www.researchgate.net/figure/Online-recruitment-system-architectural-design_fig7_354866877
+
+From this architecture the following can be derived:
+#### Information Map
+__User__: 
+- Has an overview of his personal information in his profile
+- Can query APIs to obtain interesting job offerings
+- Can open chats with AIs or the service desk
+
+__Recruiter__:
+- Has an overview over the vacant positions of the company
+- Can create job offerings
+- Can open chats with AIs or the service desk
+- Can search for potential candidates (payed service)
+
+__IT Admin__:
+- Has an overview of the infrastructure
+- Can manage the different systems (WebApp, APIs, Databases...)
+
+__Service Desk__:
+- Overview of the incidents
+- Receives new incidents via the chat function
+- Tracks and solves the incidents
+
+The communication channels are mostly asynchronous (via platform) the only synchronous channel is if a user or recruiter gets connected with the service desk via chatting functionality.
+
+From the information map and the system architecture the following requirements for the system can be derived:
+
+![Online Recruitment System Architecture](./resources/JobPlatform.png)
+
+### Conclustion
+A robust recruitment platform integrates the most important information systems for seamless end-to-end recruitment. This includes a central database and various post and query endpoints. The integration of analytics tools enables the tracking of recruitment metrics for optimisation. A mobile application improves accessibility and compliance features ensure adherence to regulations. Integration of CRM for candidates and AI algorithms improves candidate matching, utilising robust security measures. Feedback systems contribute to continuous improvement and user training ensures effective utilisation. Customisability and scalability support business growth and make the platform efficient, secure and user-friendly.
