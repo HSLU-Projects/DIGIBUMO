@@ -468,7 +468,7 @@ Mapping between information technology and information systems and employee role
 
 <img src="./resources/ISS_IT_IS.png" width="400px"/>
 
-<img src="./resources/ISS_Group_IS.png" width="400px"/>
+<img src="./resources/ISS_Group.png" width="400px"/>
 
 Prioritization of Information Systems is facilitated through portfolio technology. This includes distinguishing between mandatory and optional systems, conducting a profitability analysis for mandatory systems, and a comprehensive cost/benefit analysis for optional systems.
 
