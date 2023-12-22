@@ -137,5 +137,5 @@ From the information map and the system architecture the following requirements 
 
 ![Online Recruitment System Architecture](./resources/JobPlatform.png)
 
-### Conclustion
+### Conclusion
 A robust recruitment platform integrates the most important information systems for seamless end-to-end recruitment. This includes a central database and various post and query endpoints. The integration of analytics tools enables the tracking of recruitment metrics for optimisation. A mobile application improves accessibility and compliance features ensure adherence to regulations. Integration of CRM for candidates and AI algorithms improves candidate matching, utilising robust security measures. Feedback systems contribute to continuous improvement and user training ensures effective utilisation. Customisability and scalability support business growth and make the platform efficient, secure and user-friendly.
